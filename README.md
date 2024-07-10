@@ -13,7 +13,7 @@
 
 ## 📈 GitHub Статистика:
 
-![Ваше Имя's GitHub Статистика](https://github-readme-stats.vercel.app/api?username=ваше_имя_на_github&show_icons=true&theme=radical)
+![Sovakin](https://github-readme-stats.vercel.app/api?username=ваше_имя_на_github&show_icons=true&theme=radical)
 
 ## 🔥 Мои языки программирования:
 
