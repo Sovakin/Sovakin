@@ -13,11 +13,11 @@
 
 ## 📈 GitHub Статистика:
 
-![Sovakin](https://github-readme-stats.vercel.app/api?username=ваше_имя_на_github&show_icons=true&theme=radical)
+![Sovakin](https://github-readme-stats.vercel.app/api?username=Sovakin&show_icons=true&theme=radical)
 
 ## 🔥 Мои языки программирования:
 
-![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_на_github&layout=compact&theme=radical)
+![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovakin&layout=compact&theme=radical)
 
 ## 📫 Связаться со мной:
 
