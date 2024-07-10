@@ -25,6 +25,6 @@
 
 ## 📫 Связаться со мной:
 
-- Email: [ваш_email@example.com](mailto:ваш_email@example.com)
-- LinkedIn: [Ваш профиль](https://linkedin.com/in/ваш_профиль)
-- Twitter: [Ваш профиль](https://twitter.com/ваш_профиль)
+- TELEGRAM: [exatymple](https://t.me/sovakin)
+- VK: [example](vk.com/name_oleg)
+- Twitter: [example](https://twitter.com/ваш_профиль)
