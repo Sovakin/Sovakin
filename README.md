@@ -25,6 +25,6 @@
 
 ## 📫 Связаться со мной:
 
-- TELEGRAM: [exatymple](https://t.me/sovakin)
-- VK: [example](vk.com/name_oleg)
-- DISCORD: [example](https://discordapp.com/users/558006991927377920)
+- TELEGRAM: [link](https://t.me/sovakin)
+- VK: [link](vk.com/name_oleg)
+- DISCORD: [link](https://discordapp.com/users/558006991927377920)
