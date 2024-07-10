@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Статистика:
 
-!(https://github-readme-stats.vercel.app/api?username=Sovakin&show_icons=true&theme=radical)
+![Sovakin](https://github-readme-stats.vercel.app/api?username=Sovakin&show_icons=true&theme=radical)
 
 ## 🔥 Мои языки программирования:
 
@@ -27,4 +27,4 @@
 
 - TELEGRAM: [exatymple](https://t.me/sovakin)
 - VK: [example](vk.com/name_oleg)
-- Twitter: [example](https://twitter.com/ваш_профиль)
+- DISCORD: [example](https://discordapp.com/users/558006991927377920)
