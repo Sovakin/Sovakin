@@ -25,6 +25,6 @@
 
 ## 📫 Связаться со мной:
 
-- TELEGRAM: [link](https://t.me/emolutQQ)
+- TELEGRAM: [link](https://t.me/em0lut)
 - VK: [link](vk.com/name_oleg)
 - DISCORD: [link](https://discordapp.com/users/558006991927377920)
