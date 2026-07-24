@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-Меня зовут Олег, и я - frontend-разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать в мой профиль GitHub!
+Меня зовут Олег, и я - full-stack разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать в мой профиль GitHub!
 
 ## 🛠️ Мои технологии и инструменты:
 
@@ -12,11 +12,9 @@
 
 ## 📈 GitHub Статистика:
 
-![Sovakin](https://github-readme-stats.vercel.app/api?username=Sovakin&show_icons=true&theme=dark)
-
-## 🔥 Мои языки программирования:
-
-![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovakin&layout=compact&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=Sovakin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sovakin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sovakin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Связаться со мной:
 
